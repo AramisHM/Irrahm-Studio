@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<config>
+<!--Version: Major.Minor.Revision.Release-->
+<startUpModel file="dwarf.x" />
+<messageText caption="Irrlicht Engine Mesh Viewer">
+Irrahm [1.1.1.1]
+Irrahm Engine usa Irrlicht Engine como motor grafico.
+
+Irrahm Versio [1.1.1.1]
+Irrahm Engine uses Irrlicht Engine as graphic engine.
+
+Development team:
+Hornung Moraes, Aramis (programmer lead)	
+
+
+
+
+</messageText>
+</config>

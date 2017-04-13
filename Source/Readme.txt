@@ -1,0 +1,1 @@
+This project requires Irrlicht Engine library in order to work.
